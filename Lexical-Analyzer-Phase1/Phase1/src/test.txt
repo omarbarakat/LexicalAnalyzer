@@ -1,0 +1,3 @@
+letter = a-c
+digit = 1-9
+id : letter.digit
